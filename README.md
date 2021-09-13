@@ -1,1 +1,1 @@
-# Electron Typescript React ~~ Spotify RE UI
+# Electron Typescript React ~~ Spotify RE UI (Projeto de Estudos)
